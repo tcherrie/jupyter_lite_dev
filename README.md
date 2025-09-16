@@ -24,7 +24,7 @@ JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 7. Adjust links to your github pages website
 
-## Further Information and Updates
+## Further Information and Updates 
 
 For more info, keep an eye on the JupyterLite documentation:
 
